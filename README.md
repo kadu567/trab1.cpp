@@ -1,5 +1,6 @@
 Simulador de Saque em Caixa Eletrônico
 Informações Básicas
+
 Este programa simula o funcionamento de um caixa eletrônico para realizar saques em dinheiro. Ele garante que o valor do saque seja um múltiplo positivo de 5 e calcula automaticamente quantas notas de cada denominação (50, 20, 10 e 5 reais) são necessárias para o valor solicitado.
 
 Descrição
